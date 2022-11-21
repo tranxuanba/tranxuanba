@@ -21,10 +21,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/106661430/202960589-3c1325e1-4969-40a5-95f9-a286b6ba669f.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/106661430/202960671-0453ebb3-de47-49a9-a924-a3e5d0ab17ad.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/106661430/202961049-e8145efa-90cb-4999-8d75-9d82e6ff3df2.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/106661430/202960839-da9afb87-3c28-4b58-8f4b-6840d436e7af.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/106661430/202960939-df220b07-8d72-404e-b9fe-48add90e73b7.png"></code>
 
