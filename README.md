@@ -6,7 +6,7 @@
 
 <br />
 
-hi, i'm [Ba](https://github.com/tranxuanba), a passionate self-taught full stack web developer from Vietnam. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+I'm [Ba](https://github.com/tranxuanba), a passionate self-taught full stack web developer from Vietnam. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
